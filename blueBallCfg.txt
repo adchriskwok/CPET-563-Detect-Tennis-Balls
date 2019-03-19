@@ -1,0 +1,6 @@
+rMin  = 10
+rMax  = 100
+gMin  = 50
+gMax  = 140
+bMin  = 75
+bMax  = 140
