@@ -3,4 +3,5 @@ rMax  = 160
 gMin  = 130
 gMax  = 255
 bMin  = 70
-bMax  = 100
+bMax  = 1
+
